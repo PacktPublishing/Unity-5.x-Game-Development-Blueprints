@@ -1,0 +1,8 @@
+5.2.2f1:2.1.0.0
+StandaloneWindows
+D:/Packt Blueprints 5.2.2f1/Editor/Data/Managed/UnityEngine.dll
+D:/Packt Blueprints 5.2.2f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/Packt Blueprints 5.2.2f1/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/Packt Blueprints 5.2.2f1/Editor/Data/Managed/UnityEditor.dll
+D:/Packt Blueprints 5.2.2f1/Editor/Data\Managed/Mono.Cecil.dll
+D:/Packt Blueprints 5.2.2f1/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
