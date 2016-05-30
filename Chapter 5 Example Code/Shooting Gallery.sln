@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooting Gallery.CSharp.Plugins", "Shooting Gallery.CSharp.Plugins.csproj", "{2FD85DD7-2EE5-BBE9-0700-5E5EC4A5D207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooting Gallery.CSharp", "Shooting Gallery.CSharp.csproj", "{F956F0E9-2028-F010-A027-DEC443F0785F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD85DD7-2EE5-BBE9-0700-5E5EC4A5D207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD85DD7-2EE5-BBE9-0700-5E5EC4A5D207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD85DD7-2EE5-BBE9-0700-5E5EC4A5D207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD85DD7-2EE5-BBE9-0700-5E5EC4A5D207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F956F0E9-2028-F010-A027-DEC443F0785F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F956F0E9-2028-F010-A027-DEC443F0785F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F956F0E9-2028-F010-A027-DEC443F0785F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F956F0E9-2028-F010-A027-DEC443F0785F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
