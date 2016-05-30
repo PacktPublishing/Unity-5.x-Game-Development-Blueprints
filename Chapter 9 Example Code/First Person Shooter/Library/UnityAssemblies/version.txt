@@ -1,0 +1,15 @@
+5.3.0f4:2.1.0.0
+StandaloneWindows
+D:/Packt Blueprints 5.3.0f4/Editor/Data/Managed/UnityEngine.dll
+D:/Packt Blueprints 5.3.0f4/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/Packt Blueprints 5.3.0f4/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/Packt Blueprints 5.3.0f4/Editor/Data/Managed/UnityEditor.dll
+D:/Packt Blueprints 5.3.0f4/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll
+D:/Packt Blueprints 5.3.0f4/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll
+D:/Packt Blueprints 5.3.0f4/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll
+D:/Packt Blueprints 5.3.0f4/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+D:/Packt Blueprints 5.3.0f4/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+D:/Packt Blueprints 5.3.0f4/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll
+D:/Packt Blueprints 5.3.0f4/Editor/Data/Managed/UnityEditor.Graphs.dll
+D:/Packt Blueprints 5.3.0f4/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
