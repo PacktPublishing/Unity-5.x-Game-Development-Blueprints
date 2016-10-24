@@ -96,6 +96,7 @@ public class PlayerBehaviour : MonoBehaviour {
 		// We need to tell where the mouse is relative to the 
 		// player
 		Vector3 worldPos = Input.mousePosition;
+        worldPos.z = 10;
 		worldPos = Camera.main.ScreenToWorldPoint(worldPos);
 		
 		/*
