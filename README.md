@@ -1,3 +1,5 @@
+[![GitHub issues](https://img.shields.io/github/issues/PacktPublishing/Unity-5.x-Game-Development-Blueprints.svg)](https://github.com/PacktPublishing/Unity-5.x-Game-Development-Blueprints/issues)   [![GitHub forks](https://img.shields.io/github/forks/PacktPublishing/Unity-5.x-Game-Development-Blueprints.svg)](https://github.com/PacktPublishing/Unity-5.x-Game-Development-Blueprints/network)   [![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Unity-5.x-Game-Development-Blueprints.svg)](https://github.com/PacktPublishing/Unity-5.x-Game-Development-Blueprints/stargazers)   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/PacktPublishing/Unity-5.x-Game-Development-Blueprints/master/LICENSE)
+
 #Unity 5.x Game Development Blueprints
 
 This is the code repository for [Unity 5.x Game Development Blueprints](https://www.packtpub.com/game-development/unity-5x-game-development-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781785883118), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
